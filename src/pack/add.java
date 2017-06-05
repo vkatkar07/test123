@@ -10,7 +10,7 @@ public class add {
 		int c=20;
 		int d=a+b+c;
 
-		System.out.println("addition= "+d);
+		System.out.println("addition of 3 numbers is= "+d);
 	}
 
 }
